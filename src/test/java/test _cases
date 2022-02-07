@@ -1,0 +1,8 @@
+
+#1 open browser at new window
+#2 enter the amazon.com address
+#3 enter "bicycle" into the searching bar (loup icon)
+#4 choose the "Mountain Bikes" in Deparment
+#5 change "Sort by: Featured" into "Sort by: Price Low to High"
+#6 scroll down until found first bicycle :)
+#7 expect list of bicycles sorted by price, from lowest to the highest
